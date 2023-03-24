@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - OneTrust-CMP-XCFramework (202301.2.0.0)
+  - onetrust_publishers_native_cmp (202301.2.0.0):
+    - Flutter
+    - OneTrust-CMP-XCFramework (~> 202301.2.0.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - onetrust_publishers_native_cmp (from `.symlinks/plugins/onetrust_publishers_native_cmp/ios`)
+
+SPEC REPOS:
+  trunk:
+    - OneTrust-CMP-XCFramework
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  onetrust_publishers_native_cmp:
+    :path: ".symlinks/plugins/onetrust_publishers_native_cmp/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  OneTrust-CMP-XCFramework: 375abf622c0ea1aa2db02a9540c2ae5dbb97b723
+  onetrust_publishers_native_cmp: 82a4fde7defa83b574b2e8af31e69c6beef9947a
+
+PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
+
+COCOAPODS: 1.11.3
